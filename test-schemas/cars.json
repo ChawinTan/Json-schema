@@ -1,0 +1,10 @@
+{
+  "title": "car object",
+  "description": "describes properties of a car",
+  "type": "object",
+  "properties": {
+    "wheels": {"type": "number"},
+    "brand": {"type": "string"},
+    "model": {"type": "string"}
+  }
+}

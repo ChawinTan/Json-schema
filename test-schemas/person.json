@@ -1,0 +1,10 @@
+{
+  "title": "person object",
+  "description": "describes properties of a person",
+  "type": "object",
+  "properties": {
+    "first_name": {"type": "string"},
+    "last_name": {"type": "string"},
+    "age": {"type": "number"}
+  }
+}
